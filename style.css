@@ -1,0 +1,14 @@
+.div {
+  display: block;
+  font-size: 12px;
+  color: blue;
+  background: lightgray;
+
+}
+
+.span {
+  color: black;
+  font-size: 14px;
+  text-transform: capitalise;
+  text-align: left;
+}
